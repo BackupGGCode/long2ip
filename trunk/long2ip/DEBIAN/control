@@ -1,0 +1,8 @@
+Package: long2ip
+Version: 1
+Section: base 
+Priority: optional 
+Architecture: all 
+Depends: bash 
+Maintainer: adamsna@datanethost.net
+Description: Converts an long to an IP
